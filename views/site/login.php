@@ -7,7 +7,7 @@
 
 use yii\bootstrap5\ActiveForm;
 use yii\bootstrap5\Html;
-
+/* COMENTARIO */
 $this->title = 'Login';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
